@@ -9,6 +9,9 @@ img{ border-radius: 8px;
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 10px;
+  margin-top: 10px;
+  padding: 10px;
+  border: 5px transparent;
 }
 
 p{font-family: Arial, Helvetica, sans-serif;
@@ -16,12 +19,16 @@ p{font-family: Arial, Helvetica, sans-serif;
   margin: 15px 0;
   margin-top: 10px;
   margin-bottom: 10px;
+  padding: 10px;
+  border: 15px transparent;
 
 }
 
 p.intro{
   width: 50%;
   font-style: italic;
+  padding: 5px;
+  border: 15px transparent;
 }
 
 p.author{
@@ -29,12 +36,18 @@ p.author{
   font-family: cursive;
   font-size: 44px;
   text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: 15px transparent;
 }
 
 h1{text-align: center;
 font-family: fantasy;
 font-size: xx-large;
-margin-bottom: 0;
+margin-bottom: 10px;
+margin-top: 10px;
+padding: 5px;
+border: 5px transparent;
 }
 
 h2{text-align: center;
@@ -42,6 +55,8 @@ font-family: fantasy;
 font-weight: 900;
 margin-top: 10px;
 margin-bottom: 10px;
+padding: 5px;
+border: 5px transparent;
 }
 
 h3{text-align: center;
@@ -49,6 +64,8 @@ font-family: fantasy;
 font-size: large;
 margin-top: 10px;
 margin-bottom: 10px;
+padding: 10px;
+border: 15px transparent;
 }
 
 h4{text-align: center;
@@ -56,4 +73,6 @@ font-family: fantasy;
 font-size: large;
 margin-bottom: 10px;
 margin-top: 10px;
+padding: 5px;
+border: 15px transparent;
 }
